@@ -55,8 +55,7 @@
                 "james.user03@somemail1234.com"
             ]
         }
-    ]
-
+    ],
     "host_video": false,
     "in_meeting": false,
     "join_before_host": true,
