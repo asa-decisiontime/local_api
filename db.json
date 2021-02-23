@@ -1,48 +1,51 @@
 {
-  "meetings": [
-    {
-      "id": 1,
-      "meeting_title": "Test 1",
-      "meeting_id": 78,
-      "teams_link": "",
-      "zoom_link": "https://zoom.us/s/1100000?iIifQ.wfY2ldlb82SWo3TsR77lBiJjR53TNeFUiKbLyCvZZjw",
-      "zoom_settings": 
-	    [{
-      	"alternative_hosts": [],
-				"approve_block_entry_for_users_countries": false,
-				"audio": 3,
-				"automatically_record_meeting": false,
-				"enable_join_before_host": false,
-				"host": 1,
-				"only_authenicated_users_can_join": true,
-				"participants": 1,
-				"passcode": "",
-				"save_as_default": true,
-				"show_advanced_options": false,
-				"waiting_room": true,
-	      }]
-    },
-    {
-      "id": 2,
-      "meeting_title": "Test 2",
-      "meeting_id": 1,
-      "teams_link": "https://teams.com/s/wrgejkhgj23492742hjkfwenkjnf",
-      "zoom_link": ""
-    },
-    {
-      "id": 3,
-      "meeting_title": "Test 3",
-      "meeting_id": 2
-    },
-    {
-      "id": 4,
-      "meeting_title": "Test 4",
-      "meeting_id": 3
-    },
-    {
-      "id": 5,
-      "meeting_title": "Test 5",
-      "meeting_id": 4
-    }
-  ]
+   "meetings":[
+      {
+         "id":1,
+         "meeting_title":"Test 1",
+         "meeting_id":78,
+         "teams_link":"",
+         "zoom_link":"https://zoom.us/s/1100000?iIifQ.wfY2ldlb82SWo3TsR77lBiJjR53TNeFUiKbLyCvZZjw",
+         "zoom_settings":[
+            {
+               "alternative_hosts":[
+                  
+               ],
+               "approve_block_entry_for_users_countries":false,
+               "audio":3,
+               "automatically_record_meeting":false,
+               "enable_join_before_host":false,
+               "host":1,
+               "only_authenicated_users_can_join":true,
+               "participants":1,
+               "passcode":"",
+               "save_as_default":true,
+               "show_advanced_options":false,
+               "waiting_room":true
+            }
+         ]
+      },
+      {
+         "id":2,
+         "meeting_title":"Test 2",
+         "meeting_id":1,
+         "teams_link":"https://teams.com/s/wrgejkhgj23492742hjkfwenkjnf",
+         "zoom_link":""
+      },
+      {
+         "id":3,
+         "meeting_title":"Test 3",
+         "meeting_id":2
+      },
+      {
+         "id":4,
+         "meeting_title":"Test 4",
+         "meeting_id":3
+      },
+      {
+         "id":5,
+         "meeting_title":"Test 5",
+         "meeting_id":4
+      }
+   ]
 }
