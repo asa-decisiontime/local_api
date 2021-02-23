@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]",
     "zoom_link": "string",
-    "teams_link": "",
+    "teams_link": ""
   },
   "Comment": {
     "body": "string",
