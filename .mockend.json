@@ -4,7 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": "Comment[]",
     "zoom_link": "string",
     "teams_link": "",
   },
