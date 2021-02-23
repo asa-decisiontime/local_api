@@ -6,6 +6,20 @@
       "meeting_id": 78,
       "teams_link": "",
       "zoom_link": "https://zoom.us/s/1100000?iIifQ.wfY2ldlb82SWo3TsR77lBiJjR53TNeFUiKbLyCvZZjw"
+      "zoom_settings": [
+      	"alternative_hosts": [],
+				"approve_block_entry_for_users_countries": false,
+				"audio": '3',
+				"automatically_record_meeting": false,
+				"enable_join_before_host": false,
+				"host": '1',
+				"only_authenicated_users_can_join": true,
+				"participants": '1',
+				"passcode": '',
+				"save_as_default": true,
+				"show_advanced_options": false,
+				"waiting_room": true,
+      ]
     },
     {
       "id": 2,
