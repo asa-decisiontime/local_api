@@ -7,7 +7,7 @@
     "comments": "Comment[]",
     "zoom_link": "string",
     "teams_link": "",
-    "meeting_id": "78"
+    "meeting_id": "int"
   },
   "Comment": {
     "body": "string",
