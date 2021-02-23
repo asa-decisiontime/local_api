@@ -28,6 +28,14 @@
          "meeting_title":"Test 2",
          "meeting_id":1,
          "teams_link":"https://teams.com/s/wrgejkhgj23492742hjkfwenkjnf",
+                  "teams_settings":[
+            {
+               "announce_callers_join_leave":true,
+               "bypass_the_lobby":"",
+               "select_presenters_for_meeting":"",
+               "who_can_present":""
+            }
+         ]
          "zoom_link":""
       },
       {
