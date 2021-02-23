@@ -16,7 +16,7 @@
 				"host": 1,
 				"only_authenicated_users_can_join": true,
 				"participants": 1,
-				"passcode": '',
+				"passcode": "",
 				"save_as_default": true,
 				"show_advanced_options": false,
 				"waiting_room": true,
